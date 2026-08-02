@@ -237,7 +237,7 @@ Ride-Sharing-Hotspot-Detection-DBSCAN/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Ride-Sharing-Hotspot-Detection-DBSCAN.git
+git clone https://github.com/Dhanya31-svg/Ride-Sharing-Pickup-Hotspot-Detection-using-DBSCAN
 ```
 
 Install dependencies:
